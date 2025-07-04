@@ -10,7 +10,6 @@
 // int numberToGuess=rand.nextInt(n)+1;
 // int userGuess=0;
 // int attempts=0;
-
 // System.out.println("welcome to guess the number game!");
 // System.out.println("I have choosen a number for you can u guess it?");
 
@@ -32,3 +31,4 @@
 //   sc.close();
 // }
 // }
+
